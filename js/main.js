@@ -182,7 +182,7 @@ function blockScroll() {
 }
 
 function start() {
-    snake = [{ x: 5, y: 5 }, { x: 6, y: 5 }, { x: 7, y: 5 };
+    snake = [{ x: 5, y: 5 }, { x: 6, y: 5 }, { x: 7, y: 5 }];
     direction = 'right';
     speed = 3;
     speedStep = 0.1;
